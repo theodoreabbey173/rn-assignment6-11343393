@@ -36,8 +36,9 @@ Here are some screenshots of the app's main screens:
 
 #### HomeScreen
 ![Home Screen](Screenshot/photo_1_2024-07-03_22-18-45.jpg)
-![Home Screen](Screenshot/photo_2_2024-07-03_22-18-45.jpg)
 
+#### CartScreen
+![Cart-Screen](Screenshot/Check-out.jpg)
 
 ## Implementation Details
 
