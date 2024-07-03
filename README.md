@@ -1,4 +1,11 @@
+# User Information
+- Name: Theodore Gyaqueh Abbey
+- Student ID: 11343393
 
+# Prerequisites
+- Node.js
+- npm or yarn
+- React Native CLI
 
 # Open Fashion App
 
@@ -28,10 +35,9 @@ The Open Fashion app is a simple e-commerce application designed to allow users 
 Here are some screenshots of the app's main screens:
 
 #### HomeScreen
-![HomeScreen](./screenshots/home_screen.png)
+![Home Screen](Screenshot/photo_1_2024-07-03_22-18-45.jpg)
+![Home Screen](Screenshot/photo_2_2024-07-03_22-18-45.jpg)
 
-#### CartScreen
-![CartScreen](./screenshots/cart_screen.png)
 
 ## Implementation Details
 
@@ -54,3 +60,8 @@ AsyncStorage is used to store the cart items locally on the device. This ensures
 ## Conclusion
 
 The Open Fashion app provides a simple yet functional shopping experience with a clean and intuitive interface. The use of local storage ensures a seamless user experience by persisting cart data across sessions.
+
+## Installation and Running the Application
+1. **Clone the Repository**
+   ```sh
+   git clone https://github.com/theodoreabbey173/rn-assignment6-11343393.git
