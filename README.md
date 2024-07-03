@@ -57,9 +57,6 @@ We use React Navigation to navigate between the HomeScreen and CartScreen.
 
 AsyncStorage is used to store the cart items locally on the device. This ensures the cart persists across app sessions.
 
-## Conclusion
-
-The Open Fashion app provides a simple yet functional shopping experience with a clean and intuitive interface. The use of local storage ensures a seamless user experience by persisting cart data across sessions.
 
 ## Installation and Running the Application
 1. **Clone the Repository**
